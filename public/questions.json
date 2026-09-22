@@ -1,0 +1,2003 @@
+[
+  {
+    "ipucu": "Düşünme ve anlama yetisi",
+    "cevap": "AKIL"
+  },
+  {
+    "ipucu": "Dumanı dışarı atmaya yarayan yol",
+    "cevap": "BACA"
+  },
+  {
+    "ipucu": "İnsan teni, deri",
+    "cevap": "CİLT"
+  },
+  {
+    "ipucu": "Öğrencinin öğrenmesi gereken bilgi",
+    "cevap": "DERS"
+  },
+  {
+    "ipucu": "Kırmızı, sarı veya yeşil renkteki ağaç meyvesi",
+    "cevap": "ELMA"
+  },
+  {
+    "ipucu": "Bilgisayarı kontrol eden küçük donanım",
+    "cevap": "FARE"
+  },
+  {
+    "ipucu": "Günün güneş battıktan sonraki karanlık kısmı",
+    "cevap": "GECE"
+  },
+  {
+    "ipucu": "Yere serilen dokuma örtü",
+    "cevap": "HALI"
+  },
+  {
+    "ipucu": "Kendi dediğinde direnme durumu",
+    "cevap": "İNAT"
+  },
+  {
+    "ipucu": "Herhangi bir şeyi açıklamak için yapılan el kol hareketi",
+    "cevap": "JEST"
+  },
+  {
+    "ipucu": "Bir yere girip çıkarken geçilen açılır kapanır düzenek",
+    "cevap": "KAPI"
+  },
+  {
+    "ipucu": "Bir şeyin üzerindeki kirlilik, iz",
+    "cevap": "LEKE"
+  },
+  {
+    "ipucu": "Ayaklar üzerinde duran, genellikle düz tablalı mobilya",
+    "cevap": "MASA"
+  },
+  {
+    "ipucu": "Seslenme, çağırma sözü",
+    "cevap": "NİDA"
+  },
+  {
+    "ipucu": "Eğitim ve öğretim verilen kurum",
+    "cevap": "OKUL"
+  },
+  {
+    "ipucu": "Ormanların kralı olarak bilinen yırtıcı hayvan",
+    "cevap": "ASLAN"
+  },
+  {
+    "ipucu": "Acı veya tatlı türleri olan bir sebze",
+    "cevap": "BİBER"
+  },
+  {
+    "ipucu": "Sert kabuklu, içi yenilen bir yemiş",
+    "cevap": "CEVİZ"
+  },
+  {
+    "ipucu": "Çivi çakmak için kullanılan saplı alet",
+    "cevap": "ÇEKİÇ"
+  },
+  {
+    "ipucu": "Tokmakla vurularak çalınan vurmalı çalgı",
+    "cevap": "DAVUL"
+  },
+  {
+    "ipucu": "Görüntünün yansıdığı cam veya yüzey",
+    "cevap": "EKRAN"
+  },
+  {
+    "ipucu": "Boya sürmek veya temizlik yapmak için kullanılan araç",
+    "cevap": "FIRÇA"
+  },
+  {
+    "ipucu": "Dünyamızı ısıtan ve aydınlatan gök cismi",
+    "cevap": "GÜNEŞ"
+  },
+  {
+    "ipucu": "Kurulanmak için kullanılan havlı dokuma",
+    "cevap": "HAVLU"
+  },
+  {
+    "ipucu": "Bir yerde uzun süre görülen hava durumu",
+    "cevap": "İKLİM"
+  },
+  {
+    "ipucu": "İçi oyularak tatlısı veya yemeği yapılan sebze",
+    "cevap": "KABAK"
+  },
+  {
+    "ipucu": "Gemilerin yük alıp boşalttığı sığınak",
+    "cevap": "LİMAN"
+  },
+  {
+    "ipucu": "Ağaçlarda yetişen yenilebilir ürünlerin genel adı",
+    "cevap": "MEYVE"
+  },
+  {
+    "ipucu": "Büyük akarsu, ırmak",
+    "cevap": "NEHİR"
+  },
+  {
+    "ipucu": "Ağaçlarla kaplı geniş alan",
+    "cevap": "ORMAN"
+  },
+  {
+    "ipucu": "Türkiye'nin başkenti",
+    "cevap": "ANKARA"
+  },
+  {
+    "ipucu": "Bir ülkenin bağımsızlık sembolü",
+    "cevap": "BAYRAK"
+  },
+  {
+    "ipucu": "Para ve kartları taşımaya yarayan küçük kılıf",
+    "cevap": "CÜZDAN"
+  },
+  {
+    "ipucu": "Ekmeği yapılan bir tahıl türü",
+    "cevap": "ÇAVDAR"
+  },
+  {
+    "ipucu": "Hastalıkları tedavi eden tıp uzmanı",
+    "cevap": "DOKTOR"
+  },
+  {
+    "ipucu": "Gerçeğe dayanmayan, kuşaktan kuşağa aktarılan öykü",
+    "cevap": "EFSANE"
+  },
+  {
+    "ipucu": "Kahve veya çay içmeye yarayan kulplu kap",
+    "cevap": "FİNCAN"
+  },
+  {
+    "ipucu": "Görme kusurlarını gidermek için takılan eşya",
+    "cevap": "GÖZLÜK"
+  },
+  {
+    "ipucu": "Ucu eğri ve sivri, kısa boylu kesici silah",
+    "cevap": "HANÇER"
+  },
+  {
+    "ipucu": "Gemilerin yanaştığı deniz yapısı",
+    "cevap": "İSKELE"
+  },
+  {
+    "ipucu": "Üzerinde harfler ve tuşlar bulunan bilgisayar donanımı",
+    "cevap": "KLAVYE"
+  },
+  {
+    "ipucu": "Yiyeceklerin ve içeceklerin dilde bıraktığı tat",
+    "cevap": "LEZZET"
+  },
+  {
+    "ipucu": "Herhangi bir enerjiyle çalışan düzenek",
+    "cevap": "MAKİNE"
+  },
+  {
+    "ipucu": "Soğanlı, güzel kokulu bir süs bitkisi",
+    "cevap": "NERGİS"
+  },
+  {
+    "ipucu": "Değerli ve narin bir çiçek türü",
+    "cevap": "ORKİDE"
+  },
+  {
+    "ipucu": "Turizm başkenti sayılan Akdeniz ilimiz",
+    "cevap": "ANTALYA"
+  },
+  {
+    "ipucu": "İnce yufkalarla yapılan şerbetli tatlı",
+    "cevap": "BAKLAVA"
+  },
+  {
+    "ipucu": "Vitrin, camlı bölme",
+    "cevap": "CAMEKAN"
+  },
+  {
+    "ipucu": "İnşaatlarda kullanılan toz halindeki bağlayıcı madde",
+    "cevap": "ÇİMENTO"
+  },
+  {
+    "ipucu": "Güçlü bir patlayıcı madde",
+    "cevap": "DİNAMİT"
+  },
+  {
+    "ipucu": "Spor yaparken giyilen rahat giysi",
+    "cevap": "EŞOFMAN"
+  },
+  {
+    "ipucu": "Sanayi ürünlerinin seri üretildiği büyük tesis",
+    "cevap": "FABRİKA"
+  },
+  {
+    "ipucu": "Güneş etrafında dönen gök cismi",
+    "cevap": "GEZEGEN"
+  },
+  {
+    "ipucu": "Hastalara tıbbi bakım verilen yer",
+    "cevap": "HASTANE"
+  },
+  {
+    "ipucu": "Demir yönünden zengin yeşil yapraklı sebze",
+    "cevap": "ISPANAK"
+  },
+  {
+    "ipucu": "Yaşlanmış, kocamış kimse",
+    "cevap": "İHTİYAR"
+  },
+  {
+    "ipucu": "Sarı renkli, ötücü bir kafes kuşu",
+    "cevap": "KANARYA"
+  },
+  {
+    "ipucu": "Müşterilere yemek çıkarılan ve satılan yer",
+    "cevap": "LOKANTA"
+  },
+  {
+    "ipucu": "Kaynar suda haşlanarak hazırlanan hamur işi",
+    "cevap": "MAKARNA"
+  },
+  {
+    "ipucu": "Solunum için gerekli olan renksiz gaz",
+    "cevap": "OKSİJEN"
+  },
+  {
+    "ipucu": "Gök bilimi uzmanı",
+    "cevap": "ASTRONOM"
+  },
+  {
+    "ipucu": "İki tekerlekli, pedallı motorsuz taşıt",
+    "cevap": "BİSİKLET"
+  },
+  {
+    "ipucu": "Kakaodan yapılan tatlı yiyecek",
+    "cevap": "ÇİKOLATA"
+  },
+  {
+    "ipucu": "Soğuk tüketilen sütlü ve meyveli tatlı",
+    "cevap": "DONDURMA"
+  },
+  {
+    "ipucu": "Işık ve ısı veren enerji türü",
+    "cevap": "ELEKTRİK"
+  },
+  {
+    "ipucu": "Işık yardımıyla elde edilen kalıcı görüntü",
+    "cevap": "FOTOĞRAF"
+  },
+  {
+    "ipucu": "Barışın sembolü olarak bilinen kuş",
+    "cevap": "GÜVERCİN"
+  },
+  {
+    "ipucu": "Bir devleti yöneten en üst düzey kişi",
+    "cevap": "HÜKÜMDAR"
+  },
+  {
+    "ipucu": "Trenlerin durduğu ve kalktığı yer",
+    "cevap": "İSTASYON"
+  },
+  {
+    "ipucu": "Kitapların dizildiği mobilya veya oda",
+    "cevap": "KİTAPLIK"
+  },
+  {
+    "ipucu": "Koyu mavi renk",
+    "cevap": "LACİVERT"
+  },
+  {
+    "ipucu": "Sesi yükseltmeye ve kaydetmeye yarayan alet",
+    "cevap": "MİKROFON"
+  },
+  {
+    "ipucu": "Taşıma işlerinin genel adı",
+    "cevap": "NAKLİYAT"
+  },
+  {
+    "ipucu": "Birlikte müzik çalan çalgıcılar topluluğu",
+    "cevap": "ORKESTRA"
+  },
+  {
+    "ipucu": "Mor kabuklu, sebze olarak kullanılan bitki",
+    "cevap": "PATLICAN"
+  },
+  {
+    "ipucu": "Gök bilimi, yıldız bilimi",
+    "cevap": "ASTRONOMİ"
+  },
+  {
+    "ipucu": "Yiyecekleri soğuk tutmaya yarayan beyaz eşya",
+    "cevap": "BUZDOLABI"
+  },
+  {
+    "ipucu": "Marmara Bölgesi'nde yer alan şehitlikleriyle ünlü ilimiz",
+    "cevap": "ÇANAKKALE"
+  },
+  {
+    "ipucu": "Halkın egemenliğine dayanan yönetim biçimi",
+    "cevap": "DEMOKRASİ"
+  },
+  {
+    "ipucu": "Birbirini karşılıklı olarak etkileme durumu",
+    "cevap": "ETKİLEŞİM"
+  },
+  {
+    "ipucu": "Yabani hayvanları görüntülemek için kullanılan gizli kamera",
+    "cevap": "FOTOKAPAN"
+  },
+  {
+    "ipucu": "Yağmur sonrasında çıkan yedi renkli yay",
+    "cevap": "GÖKKUŞAĞI"
+  },
+  {
+    "ipucu": "Suçluların ceza çektiği kapalı yer",
+    "cevap": "HAPİSHANE"
+  },
+  {
+    "ipucu": "Yenilik, yeni bir yaklaşım",
+    "cevap": "İNOVASYON"
+  },
+  {
+    "ipucu": "Elektrik üreten makine",
+    "cevap": "JENERATÖR"
+  },
+  {
+    "ipucu": "Kitapların okunmak ve ödünç alınmak için saklandığı yer",
+    "cevap": "KÜTÜPHANE"
+  },
+  {
+    "ipucu": "Sayılar ve şekillerle uğraşan bilim dalı",
+    "cevap": "MATEMATİK"
+  },
+  {
+    "ipucu": "Turunçgiller ailesine verilen genel ad",
+    "cevap": "NARENCİYE"
+  },
+  {
+    "ipucu": "İşlerin makineler tarafından otomatik yapılması",
+    "cevap": "OTOMASYON"
+  },
+  {
+    "ipucu": "İnsan zihnini ve davranışlarını inceleyen bilim",
+    "cevap": "PSİKOLOJİ"
+  },
+  {
+    "ipucu": "Verileri işleyen ve saklayan elektronik cihaz",
+    "cevap": "BİLGİSAYAR"
+  },
+  {
+    "ipucu": "Ulusun egemenliğini kendi elinde tuttuğu yönetim biçimi",
+    "cevap": "CUMHURİYET"
+  },
+  {
+    "ipucu": "Taşıtları yönlendirmeye yarayan simit biçimindeki parça",
+    "cevap": "DİREKSİYON"
+  },
+  {
+    "ipucu": "Tepesindeki pervaneyle havalanan uçan taşıt",
+    "cevap": "HELİKOPTER"
+  },
+  {
+    "ipucu": "Veri toplama, analiz etme ve yorumlama bilimi",
+    "cevap": "İSTATİSTİK"
+  },
+  {
+    "ipucu": "Dans adımlarının ve düzeninin tasarımı",
+    "cevap": "KOREOGRAFİ"
+  },
+  {
+    "ipucu": "İki tekerlekli, motorlu açık taşıt",
+    "cevap": "MOTOSİKLET"
+  },
+  {
+    "ipucu": "Görüntü ve sesi uzağa ileten cihaz",
+    "cevap": "TELEVİZYON"
+  },
+  {
+    "ipucu": "Yüksek düzeyde eğitim veren öğretim kurumu",
+    "cevap": "ÜNİVERSİTE"
+  },
+  {
+    "ipucu": "Pervanesi yardımıyla havayı hareketlendiren alet",
+    "cevap": "VANTİLATÖR"
+  },
+  {
+    "ipucu": "Dalları ve yaprakları olan odunsu bitki",
+    "cevap": "AĞAÇ"
+  },
+  {
+    "ipucu": "İçinde yaşamak veya çalışmak için yapılan yapı",
+    "cevap": "BİNA"
+  },
+  {
+    "ipucu": "Süpürgeyle uçtuğuna inanılan masal kahramanı kadın",
+    "cevap": "CADI"
+  },
+  {
+    "ipucu": "Ağzın alt kısmını oluşturan kemikli bölüm",
+    "cevap": "ÇENE"
+  },
+  {
+    "ipucu": "Irmaktan daha küçük akarsu",
+    "cevap": "DERE"
+  },
+  {
+    "ipucu": "Öğrencilerin gözetim altında ders çalışması",
+    "cevap": "ETÜT"
+  },
+  {
+    "ipucu": "Taşıtların hızını kesmeye veya durdurmaya yarayan düzenek",
+    "cevap": "FREN"
+  },
+  {
+    "ipucu": "Bilet veya para alışverişinin yapıldığı küçük pencere",
+    "cevap": "GİŞE"
+  },
+  {
+    "ipucu": "Soluduğumuz renksiz ve kokusuz gaz karışımı",
+    "cevap": "HAVA"
+  },
+  {
+    "ipucu": "İçine eşya konulan, genellikle karton kap",
+    "cevap": "KUTU"
+  },
+  {
+    "ipucu": "Soğanlı, kadeh biçiminde çiçek açan süs bitkisi",
+    "cevap": "LALE"
+  },
+  {
+    "ipucu": "Çalışanlara aylık olarak ödenen para",
+    "cevap": "MAAŞ"
+  },
+  {
+    "ipucu": "Babanın veya annenin annesi",
+    "cevap": "NİNE"
+  },
+  {
+    "ipucu": "Şiir yazan ve söyleyen kimse, şair",
+    "cevap": "OZAN"
+  },
+  {
+    "ipucu": "Alışverişte kullanılan değişim aracı",
+    "cevap": "PARA"
+  },
+  {
+    "ipucu": "Aşağısı geniş, yukarısı dar, tatlı sulu meyve",
+    "cevap": "ARMUT"
+  },
+  {
+    "ipucu": "İçine peynir veya kıyma konarak pişirilen hamur işi",
+    "cevap": "BÖREK"
+  },
+  {
+    "ipucu": "Bitkinin üreme organlarını taşıyan renkli kısım",
+    "cevap": "ÇİÇEK"
+  },
+  {
+    "ipucu": "Sanayide çok kullanılan dayanıklı ve sert maden",
+    "cevap": "DEMİR"
+  },
+  {
+    "ipucu": "Ev, arsa gibi taşınmaz malların genel adı",
+    "cevap": "EMLAK"
+  },
+  {
+    "ipucu": "Boyna bağlanan ince kumaş parçası",
+    "cevap": "FULAR"
+  },
+  {
+    "ipucu": "Kişinin kendini değerli ve üstün görme duygusu",
+    "cevap": "GURUR"
+  },
+  {
+    "ipucu": "Çöl ikliminde yetişen, tatlı ve besleyici meyve",
+    "cevap": "HURMA"
+  },
+  {
+    "ipucu": "En büyük akarsu türü, nehir",
+    "cevap": "IRMAK"
+  },
+  {
+    "ipucu": "Sulu yiyecekleri yemeye yarayan saplı araç",
+    "cevap": "KAŞIK"
+  },
+  {
+    "ipucu": "Sarı renkli, ekşi sulu turunçgil",
+    "cevap": "LİMON"
+  },
+  {
+    "ipucu": "Kumaş veya kağıt kesmeye yarayan iki bıçaklı alet",
+    "cevap": "MAKAS"
+  },
+  {
+    "ipucu": "Hazır bulunan bozuk veya kağıt para",
+    "cevap": "NAKİT"
+  },
+  {
+    "ipucu": "Bir şeyin veya kimsenin içinde bulunduğu koşullar",
+    "cevap": "ORTAM"
+  },
+  {
+    "ipucu": "Uçak veya helikopter kullanan kişi",
+    "cevap": "PİLOT"
+  },
+  {
+    "ipucu": "Hukuk işlerinde yol gösteren, mahkemede savunan kişi",
+    "cevap": "AVUKAT"
+  },
+  {
+    "ipucu": "Binaların dışına doğru çıkıntılı, etrafı çevrili bölüm",
+    "cevap": "BALKON"
+  },
+  {
+    "ipucu": "Hızlı koşmasıyla bilinen, zarif yaban hayvanı",
+    "cevap": "CEYLAN"
+  },
+  {
+    "ipucu": "Ateş yakmak için kullanılan avuç içi büyüklüğündeki alet",
+    "cevap": "ÇAKMAK"
+  },
+  {
+    "ipucu": "Milletlerin kahramanlıklarını anlatan uzun manzum eser",
+    "cevap": "DESTAN"
+  },
+  {
+    "ipucu": "Belli bir konuda bilgi ve beceri kazandırma işi",
+    "cevap": "EĞİTİM"
+  },
+  {
+    "ipucu": "Mutfak ve banyo duvarlarını kaplamakta kullanılan sırlı seramik",
+    "cevap": "FAYANS"
+  },
+  {
+    "ipucu": "Lokanta ve kafelerde müşterilere hizmet eden kişi",
+    "cevap": "GARSON"
+  },
+  {
+    "ipucu": "Yeryüzünün kuşbakışı görünüşünün ölçekli çizimi",
+    "cevap": "HARİTA"
+  },
+  {
+    "ipucu": "Okullarda yiyecek ve içecek satılan yer",
+    "cevap": "KANTİN"
+  },
+  {
+    "ipucu": "Gagası ve bacakları uzun, göçmen bir kuş",
+    "cevap": "LEYLEK"
+  },
+  {
+    "ipucu": "Burun silmeye veya ter kurulamaya yarayan küçük kumaş",
+    "cevap": "MENDİL"
+  },
+  {
+    "ipucu": "Poşet yapımında da kullanılan sentetik plastik madde",
+    "cevap": "NAYLON"
+  },
+  {
+    "ipucu": "Şehir içi veya şehirler arası yolcu taşıyan büyük araç",
+    "cevap": "OTOBÜS"
+  },
+  {
+    "ipucu": "Sütten yapılan ve kahvaltıda tüketilen yiyecek",
+    "cevap": "PEYNİR"
+  },
+  {
+    "ipucu": "Kapı kilidini açıp kapamaya yarayan metal alet",
+    "cevap": "ANAHTAR"
+  },
+  {
+    "ipucu": "Marmara Bölgesi'nde yer alan bir ilimiz",
+    "cevap": "BİLECİK"
+  },
+  {
+    "ipucu": "Yıkanması gereken veya yıkanmış giysilerin tümü",
+    "cevap": "ÇAMAŞIR"
+  },
+  {
+    "ipucu": "Tarih öncesi çağlarda yaşamış dev sürüngen",
+    "cevap": "DİNOZOR"
+  },
+  {
+    "ipucu": "Güvenlik, tehlikesizlik durumu",
+    "cevap": "EMNİYET"
+  },
+  {
+    "ipucu": "Felsefe ile uğraşan ve düşünce üreten kimse",
+    "cevap": "FİLOZOF"
+  },
+  {
+    "ipucu": "Bir işle yükümlü olan, vazifeli kimse",
+    "cevap": "GÖREVLİ"
+  },
+  {
+    "ipucu": "Doktora yardımcı olan ve hasta bakımıyla ilgilenen sağlık çalışanı",
+    "cevap": "HEMŞİRE"
+  },
+  {
+    "ipucu": "Öğrencilerin bilgi düzeyini ölçen sınav",
+    "cevap": "İMTİHAN"
+  },
+  {
+    "ipucu": "Ambalajda kullanılan parlak, saydam ve ince madde",
+    "cevap": "JELATİN"
+  },
+  {
+    "ipucu": "Güvenlik güçlerinin bulunduğu ve görev yaptığı bina",
+    "cevap": "KARAKOL"
+  },
+  {
+    "ipucu": "Şansa dayalı, numaralı bilet çekilişi",
+    "cevap": "PİYANGO"
+  },
+  {
+    "ipucu": "Doğanın veya bir yerin gözle görülen genel görünüşü",
+    "cevap": "MANZARA"
+  },
+  {
+    "ipucu": "Bir işin veya durumun sonu, neticesi",
+    "cevap": "NİHAYET"
+  },
+  {
+    "ipucu": "Çocukların eğlenmesi ve oynaması için yapılan nesne",
+    "cevap": "OYUNCAK"
+  },
+  {
+    "ipucu": "Güneşe dönen ve çekirdeği yenilen sarı bitki",
+    "cevap": "AYÇİÇEĞİ"
+  },
+  {
+    "ipucu": "İl ve ilçelerin temizlik, aydınlatma, su işlerine bakan kurum",
+    "cevap": "BELEDİYE"
+  },
+  {
+    "ipucu": "Meyvelerin içindeki tohum",
+    "cevap": "ÇEKİRDEK"
+  },
+  {
+    "ipucu": "Isınma ve mutfakta yakıt olarak kullanılan yeraltı gazı",
+    "cevap": "DOĞALGAZ"
+  },
+  {
+    "ipucu": "Sağlık veya spor amacıyla yapılan düzenli bedensel hareket",
+    "cevap": "EGZERSİZ"
+  },
+  {
+    "ipucu": "Yazılı veya basılı kağıdın makineyle çoğaltılmış kopyası",
+    "cevap": "FOTOKOPİ"
+  },
+  {
+    "ipucu": "Günlük olarak ödenen ücret veya yevmiye",
+    "cevap": "GÜNDELİK"
+  },
+  {
+    "ipucu": "Vücudun veya zihnin sağlığının bozulması durumu",
+    "cevap": "HASTALIK"
+  },
+  {
+    "ipucu": "Doğanın canlandığı, kıştan sonra gelen mevsim",
+    "cevap": "İLKBAHAR"
+  },
+  {
+    "ipucu": "Belirli bir amaca ulaşmak için düzenlenen geniş çaplı etkinlik",
+    "cevap": "KAMPANYA"
+  },
+  {
+    "ipucu": "Üzerine kıyma harcı sürülerek fırınlanan ince hamur işi",
+    "cevap": "LAHMACUN"
+  },
+  {
+    "ipucu": "Tren veya lokomotif kullanan görevli kimse",
+    "cevap": "MAKİNİST"
+  },
+  {
+    "ipucu": "Kem gözlerden koruduğuna inanılan, genellikle mavi boncuklu eşya",
+    "cevap": "NAZARLIK"
+  },
+  {
+    "ipucu": "Yolcu taşımaya yarayan motorlu ve tekerlekli kara taşıtı",
+    "cevap": "OTOMOBİL"
+  },
+  {
+    "ipucu": "Belden paçalara kadar inen iki bacaklı giysi",
+    "cevap": "PANTOLON"
+  },
+  {
+    "ipucu": "A'dan Z'ye harf sırasına göre dizilmiş olan",
+    "cevap": "ALFABETİK"
+  },
+  {
+    "ipucu": "Ninenin diğer adı, yaşlı kadın",
+    "cevap": "BÜYÜKANNE"
+  },
+  {
+    "ipucu": "Çay demlemek için kullanılan iki katlı mutfak eşyası",
+    "cevap": "ÇAYDANLIK"
+  },
+  {
+    "ipucu": "Su altında ilerleyebilen savaş veya keşif gemisi",
+    "cevap": "DENİZALTI"
+  },
+  {
+    "ipucu": "Müzik aletlerinin genel adı",
+    "cevap": "ENSTRÜMAN"
+  },
+  {
+    "ipucu": "Sıkıntıdan kurtulup iç huzuruna kavuşma durumu",
+    "cevap": "FERAHLAMA"
+  },
+  {
+    "ipucu": "Güvence altına alınmış olan, teminatlı",
+    "cevap": "GARANTİLİ"
+  },
+  {
+    "ipucu": "Matematiksel işlemleri yapma işi",
+    "cevap": "HESAPLAMA"
+  },
+  {
+    "ipucu": "Dünya genelinde en çok konuşulan dillerden biri",
+    "cevap": "İNGİLİZCE"
+  },
+  {
+    "ipucu": "Kadın hastalıkları ve doğum uzmanı olan hekim",
+    "cevap": "JİNEKOLOG"
+  },
+  {
+    "ipucu": "Türkiye'nin kuzeyinde yer alan deniz",
+    "cevap": "KARADENİZ"
+  },
+  {
+    "ipucu": "Edebiyat ve bilim eserlerinin tümü, kaynakça",
+    "cevap": "LİTERATÜR"
+  },
+  {
+    "ipucu": "Çıplak gözle görülmeyen çok küçük cisimleri büyüten alet",
+    "cevap": "MİKROSKOP"
+  },
+  {
+    "ipucu": "Vasıflı, belli bir kaliteye ve özelliğe sahip olan",
+    "cevap": "NİTELİKLİ"
+  },
+  {
+    "ipucu": "Birlikte, el birliğiyle yapılan iş veya eylem",
+    "cevap": "ORTAKLAŞA"
+  },
+  {
+    "ipucu": "Yıldızların ve galaksilerin fiziksel yapısını inceleyen bilim dalı",
+    "cevap": "ASTROFİZİK"
+  },
+  {
+    "ipucu": "Para çekme ve yatırma işlemlerini yapan elektronik cihaz",
+    "cevap": "BANKAMATİK"
+  },
+  {
+    "ipucu": "Yeryüzünü, iklimleri ve doğal yaşamı inceleyen bilim insanı",
+    "cevap": "COĞRAFYACI"
+  },
+  {
+    "ipucu": "Etrafında kenarlık veya koruyucu bulunmayan",
+    "cevap": "ÇERÇEVESİZ"
+  },
+  {
+    "ipucu": "Karşılıklı kenarları eşit olan dört köşe geometrik şekil",
+    "cevap": "DİKDÖRTGEN"
+  },
+  {
+    "ipucu": "Sıvı bir ilacı iğne yardımıyla vücuda verme, iğne yapma işlemi",
+    "cevap": "ENJEKSİYON"
+  },
+  {
+    "ipucu": "Fotoğraf çekmeyi meslek edinen kişi",
+    "cevap": "FOTOĞRAFÇI"
+  },
+  {
+    "ipucu": "Daha estetik ve göze hoş gelen bir hale gelme durumu",
+    "cevap": "GÜZELLEŞME"
+  },
+  {
+    "ipucu": "Uçakların kalktığı ve indiği büyük tesis",
+    "cevap": "HAVALİMANI"
+  },
+  {
+    "ipucu": "Kavrulmuş kahvenin sahip olduğu koyu renk",
+    "cevap": "KAHVERENGİ"
+  },
+  {
+    "ipucu": "Yüzerken saçları korumak için başa takılan başlık",
+    "cevap": "BONE"
+  },
+  {
+    "ipucu": "İnce dilimlenmiş ve kızartılmış patates atıştırmalığı",
+    "cevap": "CİPS"
+  },
+  {
+    "ipucu": "Çocukların bakımıyla ilgilenen görevli kadın",
+    "cevap": "DADI"
+  },
+  {
+    "ipucu": "Belden aşağı giyilen kadın giysisi",
+    "cevap": "ETEK"
+  },
+  {
+    "ipucu": "Ticaret veya sanat ürünlerinin sergilendiği büyük alan",
+    "cevap": "FUAR"
+  },
+  {
+    "ipucu": "Kuşların beslenmek için kullandığı ağız kısmı",
+    "cevap": "GAGA"
+  },
+  {
+    "ipucu": "Babanın kız kardeşi",
+    "cevap": "HALA"
+  },
+  {
+    "ipucu": "Toprağı kazarak eski eserleri çıkarma işi, hafriyat",
+    "cevap": "KAZI"
+  },
+  {
+    "ipucu": "Ortaokul ile üniversite arasındaki eğitim kurumu",
+    "cevap": "LİSE"
+  },
+  {
+    "ipucu": "Erkekliğini aşırı vurgulayan kaba saba erkek",
+    "cevap": "MAÇO"
+  },
+  {
+    "ipucu": "Keskin kokulu, ferahlatıcı bir baharat bitkisi",
+    "cevap": "NANE"
+  },
+  {
+    "ipucu": "Belirli bir süre yemek yememe ve içmeme ibadeti",
+    "cevap": "ORUÇ"
+  },
+  {
+    "ipucu": "Basketbolda topun içinden geçirilmeye çalışıldığı çember",
+    "cevap": "POTA"
+  },
+  {
+    "ipucu": "İtalya'nın başkenti olan tarihi şehir",
+    "cevap": "ROMA"
+  },
+  {
+    "ipucu": "İçinde ateş yakılarak ısınılan araç",
+    "cevap": "SOBA"
+  },
+  {
+    "ipucu": "Bir kimsenin veya kurumun bulunduğu yerin tanımı",
+    "cevap": "ADRES"
+  },
+  {
+    "ipucu": "Ulaşım, sinema veya konser için alınan giriş belgesi",
+    "cevap": "BİLET"
+  },
+  {
+    "ipucu": "Gömlek veya tişört üzerine giyilen önü açık üstlük",
+    "cevap": "CEKET"
+  },
+  {
+    "ipucu": "İçine eşya konarak taşımaya yarayan genellikle saplı kap",
+    "cevap": "ÇANTA"
+  },
+  {
+    "ipucu": "Dünya yüzeyini kaplayan büyük tuzlu su kütlesi",
+    "cevap": "DENİZ"
+  },
+  {
+    "ipucu": "Tahıl unundan yapılarak pişirilen temel besin maddesi",
+    "cevap": "EKMEK"
+  },
+  {
+    "ipucu": "Yeni yetişen, toprağa dikilmeye hazır küçük ağaç",
+    "cevap": "FİDAN"
+  },
+  {
+    "ipucu": "Altı telli, parmak veya penayla çalınan müzik aleti",
+    "cevap": "GİTAR"
+  },
+  {
+    "ipucu": "Turuncu renkli, koni biçiminde tatlı bir kök sebze",
+    "cevap": "HAVUÇ"
+  },
+  {
+    "ipucu": "Dikiş dikmek veya dokuma yapmak için kullanılan ince tel",
+    "cevap": "İPLİK"
+  },
+  {
+    "ipucu": "Üzerine yazı yazmak veya baskı yapmak için kullanılan yaprak",
+    "cevap": "KAĞIT"
+  },
+  {
+    "ipucu": "Mayasız hamurdan yapılan ince ve yumuşak ekmek türü",
+    "cevap": "LAVAŞ"
+  },
+  {
+    "ipucu": "Şehir içi ulaşımı sağlayan yeraltı treni",
+    "cevap": "METRO"
+  },
+  {
+    "ipucu": "Yuvarlak taneli, sarımtırak renkli bir baklagil",
+    "cevap": "NOHUT"
+  },
+  {
+    "ipucu": "Perde ayaklı, paytak yürüyüşlü su kuşu",
+    "cevap": "ÖRDEK"
+  },
+  {
+    "ipucu": "Asya kıtası ile kara sınırı bulunan bir kıta",
+    "cevap": "AVRUPA"
+  },
+  {
+    "ipucu": "İçecek tüketmek için kullanılan genellikle cam eşya",
+    "cevap": "BARDAK"
+  },
+  {
+    "ipucu": "İşlenmemiş, doğada bulunduğu haldeki değerli maden",
+    "cevap": "CEVHER"
+  },
+  {
+    "ipucu": "Yatağın üzerine serilen veya yorgana geçirilen bez örtü",
+    "cevap": "ÇARŞAF"
+  },
+  {
+    "ipucu": "Üzerine yazı yazmak için bir araya getirilmiş kağıt yaprakları",
+    "cevap": "DEFTER"
+  },
+  {
+    "ipucu": "Genellikle kumaştan yapılan, bedeni örten giysi",
+    "cevap": "ELBİSE"
+  },
+  {
+    "ipucu": "İçinden geçen sıvı veya gazı süzmeye yarayan alet",
+    "cevap": "FİLTRE"
+  },
+  {
+    "ipucu": "Kumaştan dikilen, yakalı ve düğmeli üst giysisi",
+    "cevap": "GÖMLEK"
+  },
+  {
+    "ipucu": "Taş, tunç veya kil gibi maddelerden yapılan üç boyutlu sanat eseri",
+    "cevap": "HEYKEL"
+  },
+  {
+    "ipucu": "Bir şeyi göstermek veya anlatmak için kullanılan simge, iz",
+    "cevap": "İŞARET"
+  },
+  {
+    "ipucu": "Geniş kanatlı, sivri gagalı ve yırtıcı bir kuş",
+    "cevap": "KARTAL"
+  },
+  {
+    "ipucu": "Kauçuktan üretilen, esnek ve gerilebilir madde",
+    "cevap": "LASTİK"
+  },
+  {
+    "ipucu": "Şehirlerde çok sayıda yolun veya caddenin açıldığı geniş alan",
+    "cevap": "MEYDAN"
+  },
+  {
+    "ipucu": "Çiçeklerin ürettiği tatlı ve kokulu sıvı",
+    "cevap": "NEKTAR"
+  },
+  {
+    "ipucu": "Yüksek hızlı motorlu taşıt trafiğine ayrılmış bölünmüş yol",
+    "cevap": "OTOYOL"
+  },
+  {
+    "ipucu": "Bir ürünü korumak veya taşımak için kullanılan sarma malzemesi",
+    "cevap": "AMBALAJ"
+  },
+  {
+    "ipucu": "Yemeklere lezzet ve koku katmak için kullanılan bitkisel maddeler",
+    "cevap": "BAHARAT"
+  },
+  {
+    "ipucu": "Korku ve çekinme duygusuna kapılmadan harekete geçme gücü, yüreklilik",
+    "cevap": "CESARET"
+  },
+  {
+    "ipucu": "Dolap veya masaların içine sürülerek itilen ve çekilen göz",
+    "cevap": "ÇEKMECE"
+  },
+  {
+    "ipucu": "İçindeki buhar basıncıyla yiyecekleri hızlı pişiren tencere türü",
+    "cevap": "DÜDÜKLÜ"
+  },
+  {
+    "ipucu": "Dünyayı kuzey ve güney yarımküre olarak ikiye bölen hayali çizgi",
+    "cevap": "EKVATOR"
+  },
+  {
+    "ipucu": "Uzun, yeşil veya kurutulmuş olarak tüketilen bir baklagil",
+    "cevap": "FASULYE"
+  },
+  {
+    "ipucu": "Nesilden nesile aktarılan köklü alışkanlıklar ve inançlar",
+    "cevap": "GELENEK"
+  },
+  {
+    "ipucu": "Yaz mevsiminin başlangıcını temsil eden altıncı ay",
+    "cevap": "HAZİRAN"
+  },
+  {
+    "ipucu": "Başkenti Madrid olan Avrupa ülkesi",
+    "cevap": "İSPANYA"
+  },
+  {
+    "ipucu": "Göğüs boşluğunu saran yay biçimindeki yassı kemiklerin her biri",
+    "cevap": "KABURGA"
+  },
+  {
+    "ipucu": "Kozmetik sektöründe çok kullanılan mor çiçekli güzel kokulu bitki",
+    "cevap": "LAVANTA"
+  },
+  {
+    "ipucu": "Bir mal veya hizmeti satın alan kişi, alıcı",
+    "cevap": "MÜŞTERİ"
+  },
+  {
+    "ipucu": "Yük veya eşyaların bir yerden başka bir yere taşınması işi",
+    "cevap": "NAKLİYE"
+  },
+  {
+    "ipucu": "Ormanların korunması ve bakımıyla görevli olan kişi",
+    "cevap": "ORMANCI"
+  },
+  {
+    "ipucu": "Koşu, atlama ve atma branşlarını kapsayan spor dalı",
+    "cevap": "ATLETİZM"
+  },
+  {
+    "ipucu": "Gerçekleri, olayları ve doğayı bilimsel bir yaklaşımla anlatan film türü",
+    "cevap": "BELGESEL"
+  },
+  {
+    "ipucu": "Yeryüzünü, iklimleri ve canlıların dağılışını inceleyen bilim",
+    "cevap": "COĞRAFYA"
+  },
+  {
+    "ipucu": "Bebeklik ile ergenlik arasındaki yaşam dönemi",
+    "cevap": "ÇOCUKLUK"
+  },
+  {
+    "ipucu": "Dağlara tırmanmayı amaç edinen doğa sporu",
+    "cevap": "DAĞCILIK"
+  },
+  {
+    "ipucu": "Çok masraf gerektirmeyen, kazançlı, hesaplı",
+    "cevap": "EKONOMİK"
+  },
+  {
+    "ipucu": "Maddi varlığı olan, bedensel veya doğa kanunlarıyla ilgili olan",
+    "cevap": "FİZİKSEL"
+  },
+  {
+    "ipucu": "Göze veya kulağa hoş gelme, estetik bir haz uyandırma durumu",
+    "cevap": "GÜZELLİK"
+  },
+  {
+    "ipucu": "Bir olay veya durum hakkında bilgisi olan, haberli",
+    "cevap": "HABERDAR"
+  },
+  {
+    "ipucu": "Dünya çapındaki bilgisayar ve iletişim ağlarının genel adı",
+    "cevap": "İNTERNET"
+  },
+  {
+    "ipucu": "Erken ilkbaharda karların arasından açan beyaz renkli çiçek",
+    "cevap": "KARDELEN"
+  },
+  {
+    "ipucu": "Limon suyu, su ve şekerle yapılan serinletici içecek",
+    "cevap": "LİMONATA"
+  },
+  {
+    "ipucu": "Müzik sanatıyla uğraşan, beste yapan veya enstrüman çalan kişi",
+    "cevap": "MÜZİSYEN"
+  },
+  {
+    "ipucu": "Geçmişte kalan güzelliklere veya anılara duyulan özlem",
+    "cevap": "NOSTALJİ"
+  },
+  {
+    "ipucu": "Ağaçların sık ve bol bulunduğu, genellikle geniş olan alan",
+    "cevap": "ORMANLIK"
+  },
+  {
+    "ipucu": "Yıldızların ve gezegenlerin insan üzerindeki etkisini araştıran sözde bilim",
+    "cevap": "ASTROLOJİ"
+  },
+  {
+    "ipucu": "Beşer kişilik iki takımın topu çemberden geçirmeye çalıştığı spor",
+    "cevap": "BASKETBOL"
+  },
+  {
+    "ipucu": "Haftanın altıncı günü, hafta sonu başlangıcı",
+    "cevap": "CUMARTESİ"
+  },
+  {
+    "ipucu": "Hızla birbirine vurmak veya savaş alanında vuruşmak",
+    "cevap": "ÇARPIŞMAK"
+  },
+  {
+    "ipucu": "Uluslararası ilişkileri barışçıl yollarla yürütme sanatı",
+    "cevap": "DİPLOMASİ"
+  },
+  {
+    "ipucu": "Binlerce adadan oluşan, başkenti Cakarta olan Asya ülkesi",
+    "cevap": "ENDONEZYA"
+  },
+  {
+    "ipucu": "Canlıların hücre, doku ve organlarının işleyişini inceleyen bilim dalı",
+    "cevap": "FİZYOLOJİ"
+  },
+  {
+    "ipucu": "Kendisine güven duyulan, sadık ve dürüst olan kimse",
+    "cevap": "GÜVENİLİR"
+  },
+  {
+    "ipucu": "Duyu organlarıyla veya içgüdüsel olarak algılamak, duymak",
+    "cevap": "HİSSETMEK"
+  },
+  {
+    "ipucu": "Bir ortamı ısı, ses veya su gibi etkenlerden korumak için yalıtma işi",
+    "cevap": "İZOLASYON"
+  },
+  {
+    "ipucu": "Merkezi bir kazandan borularla dağılan sıcak suyun binaları ısıttığı sistem",
+    "cevap": "KALORİFER"
+  },
+  {
+    "ipucu": "Lokanta işleten veya lokantada yemek yapan usta",
+    "cevap": "LOKANTACI"
+  },
+  {
+    "ipucu": "Yapılan bir iyiliğe karşı şükran duyan, iyilikbilir kişi",
+    "cevap": "MİNNETTAR"
+  },
+  {
+    "ipucu": "Üzerinde herhangi bir sayı veya sıra numarası bulunmayan",
+    "cevap": "NUMARASIZ"
+  },
+  {
+    "ipucu": "Parçalar arasında uygunluk veya denge bulunmayan durum",
+    "cevap": "ORANTISIZ"
+  },
+  {
+    "ipucu": "Göğüs boşluğunda bulunan, solunumu sağlayan çift organ",
+    "cevap": "AKCİĞERLER"
+  },
+  {
+    "ipucu": "Gelecekteki teknolojik veya uzay tabanlı olayları konu alan eser türü",
+    "cevap": "BİLİMKURGU"
+  },
+  {
+    "ipucu": "Savaşçıya yakışır bir biçimde, cesurca ve yiğitçe",
+    "cevap": "CENGAVERCE"
+  },
+  {
+    "ipucu": "İçinde tohum barındıran meyve veya yiyeceklerin genel durumu",
+    "cevap": "ÇEKİRDEKLİ"
+  },
+  {
+    "ipucu": "Bir kişi veya düşünceye arka çıkma, yardımcı olma durumu",
+    "cevap": "DESTEKLEME"
+  },
+  {
+    "ipucu": "Edebiyatla uğraşan, edebi eserler veren veya inceleyen kimse",
+    "cevap": "EDEBİYATÇI"
+  },
+  {
+    "ipucu": "Fabrika sahibi olan ve büyük endüstriyel tesisler işleten kimse",
+    "cevap": "FABRİKATÖR"
+  },
+  {
+    "ipucu": "Geçmişten gelen, atadan kalma adetlere uygun olan",
+    "cevap": "GELENEKSEL"
+  },
+  {
+    "ipucu": "Yardıma muhtaç kişilere iyilik yapmaktan hoşlanan kimse",
+    "cevap": "HAYIRSEVER"
+  },
+  {
+    "ipucu": "Gizli siyasi, askeri veya ekonomik bilgileri toplama faaliyeti",
+    "cevap": "İSTİHBARAT"
+  },
+  {
+    "ipucu": "Yüzyıllık zaman dilimi",
+    "cevap": "ASIR"
+  },
+  {
+    "ipucu": "İki şeyi birbirine tutturmaya yarayan yapışkan şerit",
+    "cevap": "BANT"
+  },
+  {
+    "ipucu": "Müslümanların ibadet etmek için toplandığı yer",
+    "cevap": "CAMİ"
+  },
+  {
+    "ipucu": "İki tahtayı birbirine tutturmak için kullanılan metal alet",
+    "cevap": "ÇİVİ"
+  },
+  {
+    "ipucu": "Sevilen, güvenilen yakın arkadaş",
+    "cevap": "DOST"
+  },
+  {
+    "ipucu": "Bir işin yapılması için harcanan beden veya kafa gücü",
+    "cevap": "EMEK"
+  },
+  {
+    "ipucu": "Yan tutularak üflenen nefesli bir çalgı",
+    "cevap": "FLÜT"
+  },
+  {
+    "ipucu": "Yünlü kumaşları kemiren bir tür küçük kelebek",
+    "cevap": "GÜVE"
+  },
+  {
+    "ipucu": "Yanlışlık, kusur",
+    "cevap": "HATA"
+  },
+  {
+    "ipucu": "Soğuk ile sıcak arası",
+    "cevap": "ILIK"
+  },
+  {
+    "ipucu": "Kırağı, çiğ",
+    "cevap": "JALE"
+  },
+  {
+    "ipucu": "Miyavlayarak ses çıkaran evcil hayvan",
+    "cevap": "KEDİ"
+  },
+  {
+    "ipucu": "İnternet sayfaları arasındaki bağlantı",
+    "cevap": "LİNK"
+  },
+  {
+    "ipucu": "Milli duyguları coşturan ritmik müzik parçası",
+    "cevap": "MARŞ"
+  },
+  {
+    "ipucu": "Müzik seslerini gösteren işaret",
+    "cevap": "NOTA"
+  },
+  {
+    "ipucu": "Önemli bir olayı veya kişiyi yaşatmak için yapılan anıt",
+    "cevap": "ABİDE"
+  },
+  {
+    "ipucu": "Suyu toplamak ve elektrik üretmek için kurulan set",
+    "cevap": "BARAJ"
+  },
+  {
+    "ipucu": "Belli bir işi yapmaya yarayan alet veya aygıt",
+    "cevap": "CİHAZ"
+  },
+  {
+    "ipucu": "Koyun ve keçi sürülerini güden kimse",
+    "cevap": "ÇOBAN"
+  },
+  {
+    "ipucu": "Sağlık için uygulanan özel beslenme düzeni",
+    "cevap": "DİYET"
+  },
+  {
+    "ipucu": "Başa bağlanan veya omuzlara alınan ipekli kumaş",
+    "cevap": "EŞARP"
+  },
+  {
+    "ipucu": "İçinde ışık kaynağı bulunan aydınlatma aracı",
+    "cevap": "FENER"
+  },
+  {
+    "ipucu": "Erkeklerinin başında çatallı boynuzlar olan yaban hayvanı",
+    "cevap": "GEYİK"
+  },
+  {
+    "ipucu": "Gemileri bağlamakta kullanılan çok kalın ip",
+    "cevap": "HALAT"
+  },
+  {
+    "ipucu": "Dudakların arasından çıkarılan ince ve tiz ses",
+    "cevap": "ISLIK"
+  },
+  {
+    "ipucu": "Tıraş olmak için kullanılan ince çelik yaprak",
+    "cevap": "JİLET"
+  },
+  {
+    "ipucu": "Dışı kalın kabuklu, içi sulu ve tatlı sarı yaz meyvesi",
+    "cevap": "KAVUN"
+  },
+  {
+    "ipucu": "İnsanların iletişim kurduğu dil",
+    "cevap": "LİSAN"
+  },
+  {
+    "ipucu": "Duyularla algılanabilen, uzayda yer kaplayan nesne",
+    "cevap": "MADDE"
+  },
+  {
+    "ipucu": "Burun akıntısı ve hapşırmayla beliren soğuk algınlığı",
+    "cevap": "NEZLE"
+  },
+  {
+    "ipucu": "Deniz kuvvetlerinde en yüksek rütbeli subay",
+    "cevap": "AMİRAL"
+  },
+  {
+    "ipucu": "Sesi ve güzel ötüşüyle bilinen küçük bir kuş",
+    "cevap": "BÜLBÜL"
+  },
+  {
+    "ipucu": "Dini inançlara göre iyilerin öldükten sonra gideceği yer",
+    "cevap": "CENNET"
+  },
+  {
+    "ipucu": "Törenlerde anıta bırakılan çember biçimli çiçek",
+    "cevap": "ÇELENK"
+  },
+  {
+    "ipucu": "Yer kabuğundaki kırılmalarla oluşan sarsıntı",
+    "cevap": "DEPREM"
+  },
+  {
+    "ipucu": "Kötü bir şey olacakmış gibi duyulan kaygı",
+    "cevap": "ENDİŞE"
+  },
+  {
+    "ipucu": "Para, kredi ve sermaye işlerinin bütünü",
+    "cevap": "FİNANS"
+  },
+  {
+    "ipucu": "Bir olayı veya gerçeği dikkatle inceleme işi",
+    "cevap": "GÖZLEM"
+  },
+  {
+    "ipucu": "Eksiksiz, kusursuz ve çok güzel olan",
+    "cevap": "HARİKA"
+  },
+  {
+    "ipucu": "Dişlemek suretiyle bedende bırakılan iz",
+    "cevap": "ISIRIK"
+  },
+  {
+    "ipucu": "Su, meyve suyu gibi içilen sıvıların genel adı",
+    "cevap": "İÇECEK"
+  },
+  {
+    "ipucu": "Anlamlı ses veya ses birliği, sözcük",
+    "cevap": "KELİME"
+  },
+  {
+    "ipucu": "Eski Romalılarda piyade ve süvarilerden oluşan birlik",
+    "cevap": "LEJYON"
+  },
+  {
+    "ipucu": "Bina tasarımı ve yapım sanatı",
+    "cevap": "MİMARİ"
+  },
+  {
+    "ipucu": "Büyüklük, nicelik veya derece bakımından iki şey arasındaki oran",
+    "cevap": "NİSPET"
+  },
+  {
+    "ipucu": "Binalarda katlar arası inmeyi veya çıkmayı sağlayan araç",
+    "cevap": "ASANSÖR"
+  },
+  {
+    "ipucu": "Bir işletmenin mali durumunu gösteren tablo",
+    "cevap": "BİLANÇO"
+  },
+  {
+    "ipucu": "Korkunç, yırtıcı ve masalsı iri yaratık",
+    "cevap": "CANAVAR"
+  },
+  {
+    "ipucu": "Şans oyunlarında kura çekme işlemi",
+    "cevap": "ÇEKİLİŞ"
+  },
+  {
+    "ipucu": "Ses şiddetini ölçmekte kullanılan birim",
+    "cevap": "DESİBEL"
+  },
+  {
+    "ipucu": "Soğuktan korunmak için ellere giyilen eşya",
+    "cevap": "ELDİVEN"
+  },
+  {
+    "ipucu": "Büyük zarar, üzüntü ve yıkıma yol açan olay",
+    "cevap": "FELAKET"
+  },
+  {
+    "ipucu": "Ağlarken gözden akan tuzlu sıvı",
+    "cevap": "GÖZYAŞI"
+  },
+  {
+    "ipucu": "Korku, sevinç veya beklentiyle kalp atışının hızlanması",
+    "cevap": "HEYECAN"
+  },
+  {
+    "ipucu": "Bir ortamın sıcaklığını artırmak için kullanılan cihaz",
+    "cevap": "ISITICI"
+  },
+  {
+    "ipucu": "Bir ülkenin ürettiği malları başka ülkelere satması",
+    "cevap": "İHRACAT"
+  },
+  {
+    "ipucu": "Dünyanın yapısını ve oluşumunu inceleyen bilim",
+    "cevap": "JEOLOJİ"
+  },
+  {
+    "ipucu": "İçinde yaşanabilen, arkasına takıldığı araçla çekilen taşıt",
+    "cevap": "KARAVAN"
+  },
+  {
+    "ipucu": "Boş ve anlamsız konuşma, laf",
+    "cevap": "LAKIRDI"
+  },
+  {
+    "ipucu": "Adalet işlerine bakan ve yargı yetkisini kullanan kurul veya yer",
+    "cevap": "MAHKEME"
+  },
+  {
+    "ipucu": "Sporcuları yarışmalara hazırlayan çalıştırıcı",
+    "cevap": "ANTRENÖR"
+  },
+  {
+    "ipucu": "Resmi veya tarihi belgelerin saklandığı yer, arşiv",
+    "cevap": "BELGELİK"
+  },
+  {
+    "ipucu": "Harcama yapmaktan kaçınma, pintilik",
+    "cevap": "CİMRİLİK"
+  },
+  {
+    "ipucu": "Atılgan olmayan, ürkek ve utangaç kimse",
+    "cevap": "ÇEKİNGEN"
+  },
+  {
+    "ipucu": "Yanlışları giderip doğru hale getirme işi",
+    "cevap": "DÜZELTME"
+  },
+  {
+    "ipucu": "Olay, düşünce ve duyguları dil aracılığıyla estetik biçimde ifade etme sanatı",
+    "cevap": "EDEBİYAT"
+  },
+  {
+    "ipucu": "Bir inanca veya düşünceye aşırı derecede, körü körüne bağlılık",
+    "cevap": "FANATİZM"
+  },
+  {
+    "ipucu": "Tehlikelerden uzak olma, emniyet içinde bulunma durumu",
+    "cevap": "GÜVENLİK"
+  },
+  {
+    "ipucu": "Toprağı kazma ve taşıma işlerinin tümü",
+    "cevap": "HAFRİYAT"
+  },
+  {
+    "ipucu": "Başka bir devlete bağlı olmama durumu, bağımsızlık",
+    "cevap": "İSTİKLAL"
+  },
+  {
+    "ipucu": "Güvenliği sağlamakla görevli askeri kolluk kuvveti",
+    "cevap": "JANDARMA"
+  },
+  {
+    "ipucu": "Yol kenarlarında yayaların yürümesi için yapılmış yüksekçe yer",
+    "cevap": "KALDIRIM"
+  },
+  {
+    "ipucu": "İçinden çıkılması zor olan karmaşık yollar bütünü",
+    "cevap": "LABİRENT"
+  },
+  {
+    "ipucu": "Binaları tasarlama ve inşa etme sanatı",
+    "cevap": "MİMARLIK"
+  },
+  {
+    "ipucu": "Üzerinde sıra veya kayıt rakamı bulunan",
+    "cevap": "NUMARALI"
+  },
+  {
+    "ipucu": "Bilimsel bir gerçeği ortaya çıkarmak için yapılan inceleme",
+    "cevap": "ARAŞTIRMA"
+  },
+  {
+    "ipucu": "Birinin veya bir şeyin bir yerde durmasını sağlamak",
+    "cevap": "BEKLETMEK"
+  },
+  {
+    "ipucu": "Para ve malını esirgemeden veren kimsenin huyu, eliaçıklık",
+    "cevap": "CÖMERTLİK"
+  },
+  {
+    "ipucu": "Sayısını, miktarını artırmak, ziyadeleştirmek",
+    "cevap": "ÇOĞALTMAK"
+  },
+  {
+    "ipucu": "Bir işi veya ortamı tertipli hale getirme, organize etme",
+    "cevap": "DÜZENLEME"
+  },
+  {
+    "ipucu": "Yaş veya hizmet süresi dolarak çalışma hayatını tamamlama durumu",
+    "cevap": "EMEKLİLİK"
+  },
+  {
+    "ipucu": "Benzer olmama durumu, başkalık, ayrım",
+    "cevap": "FARKLILIK"
+  },
+  {
+    "ipucu": "Bir veriyi veya yazılımı en yeni duruma getirme işlemi",
+    "cevap": "GÜNCELLEME"
+  },
+  {
+    "ipucu": "Bir şeyi kullanılacak veya işe yarayacak duruma getirme",
+    "cevap": "HAZIRLAMA"
+  },
+  {
+    "ipucu": "İçinde demir yönünden zengin yeşil yapraklı sebze bulunan",
+    "cevap": "ISPANAKLI"
+  },
+  {
+    "ipucu": "Yaşlanmış olma durumu, gençlik karşıtı",
+    "cevap": "İHTİYARLIK"
+  },
+  {
+    "ipucu": "Yemeklere acılık katan, siyah toz halindeki baharat",
+    "cevap": "KARABİBER"
+  },
+  {
+    "ipucu": "Vagonları çeken ve treni hareket ettiren makine",
+    "cevap": "LOKOMOTİF"
+  },
+  {
+    "ipucu": "Bir inşaatı veya büyük bir işi yapmayı üstlenen kişi",
+    "cevap": "MÜTEAHHİT"
+  },
+  {
+    "ipucu": "Başkalarına karşı saygılı ve ince davranan",
+    "cevap": "NEZAKETLİ"
+  },
+  {
+    "ipucu": "İnsan ırkını, kökenini ve evrimini inceleyen bilim insanı",
+    "cevap": "ANTROPOLOG"
+  },
+  {
+    "ipucu": "Kişinin farkında olmadığı düşünce ve anıların saklandığı zihin katmanı",
+    "cevap": "BİLİNÇALTI"
+  },
+  {
+    "ipucu": "Bir soruya karşılık vermek, yanıtlamak",
+    "cevap": "CEVAPLAMAK"
+  },
+  {
+    "ipucu": "Bir iş yerinde emeğiyle görev yapan kişilerin tümü",
+    "cevap": "ÇALIŞANLAR"
+  },
+  {
+    "ipucu": "İlerisini gerisini hesaplamadan hareket eden, anlayışsız kimse",
+    "cevap": "DÜŞÜNCESİZ"
+  },
+  {
+    "ipucu": "Hak ve değer bakımından aynı konumda olmama durumu",
+    "cevap": "EŞİTSİZLİK"
+  },
+  {
+    "ipucu": "Bir şeyin nimetlerinden yararlanma işi, istifade etme",
+    "cevap": "FAYDALANMA"
+  },
+  {
+    "ipucu": "Sadece sesli değil, aynı zamanda görsel olan yayın veya arama",
+    "cevap": "GÖRÜNTÜLÜ"
+  },
+  {
+    "ipucu": "İletişim araçlarıyla bilgi alıp verme işi",
+    "cevap": "HABERLEŞME"
+  },
+  {
+    "ipucu": "Bir evrakın veya sözleşmenin onaylanarak geçerli hale getirilmesi",
+    "cevap": "İMZALANMAK"
+  },
+
+  {
+    "ipucu": "Büyük yıkım, felaket",
+    "cevap": "AFET"
+  },
+  {
+    "ipucu": "Maddenin en küçük yapı taşı",
+    "cevap": "ATOM"
+  },
+  {
+    "ipucu": "Çocuğu olan erkek",
+    "cevap": "BABA"
+  },
+  {
+    "ipucu": "Perşembe ile cumartesi arasındaki gün",
+    "cevap": "CUMA"
+  },
+  {
+    "ipucu": "Binaların en üstünü örten bölüm",
+    "cevap": "ÇATI"
+  },
+  {
+    "ipucu": "İneğin sütten kesilmiş yavrusu",
+    "cevap": "DANA"
+  },
+  {
+    "ipucu": "Tarlaya ekilmiş tahıl",
+    "cevap": "EKİN"
+  },
+  {
+    "ipucu": "Ağırlık yitimi, eksilme",
+    "cevap": "FİRE"
+  },
+  {
+    "ipucu": "Savaştan sağ dönen kimse",
+    "cevap": "GAZİ"
+  },
+  {
+    "ipucu": "İstiridye içinde oluşan değerli süs tanesi",
+    "cevap": "İNCİ"
+  },
+  {
+    "ipucu": "Para saklanan çelik dolap",
+    "cevap": "KASA"
+  },
+  {
+    "ipucu": "İlkbaharın ilk ayı",
+    "cevap": "MART"
+  },
+  {
+    "ipucu": "Ateş yakılan, yemek pişirilen yer",
+    "cevap": "OCAK"
+  },
+  {
+    "ipucu": "Deniz veya göl kıyısındaki kumsal",
+    "cevap": "PLAJ"
+  },
+  {
+    "ipucu": "Gemilerin veya uçakların izlediği yol",
+    "cevap": "ROTA"
+  },
+  {
+    "ipucu": "Gündüzün sonu, gecenin başlangıcı",
+    "cevap": "AKŞAM"
+  },
+  {
+    "ipucu": "Kafatası içindeki sinir merkezi",
+    "cevap": "BEYİN"
+  },
+  {
+    "ipucu": "Tehlikelerden korkmayan, yürekli",
+    "cevap": "CESUR"
+  },
+  {
+    "ipucu": "Su ile karışıp yapışkan olmuş toprak",
+    "cevap": "ÇAMUR"
+  },
+  {
+    "ipucu": "Bilimsel bir gerçeği kanıtlamak için yapılan işlem",
+    "cevap": "DENEY"
+  },
+  {
+    "ipucu": "Yetişkin adam",
+    "cevap": "ERKEK"
+  },
+  {
+    "ipucu": "İçinde ekmek veya yemek pişirilen kapalı yer",
+    "cevap": "FIRIN"
+  },
+  {
+    "ipucu": "İki kişinin birbirini sırtüstü getirmeye çalıştığı spor",
+    "cevap": "GÜREŞ"
+  },
+  {
+    "ipucu": "Unun su ve maya ile yoğrulmuş hali",
+    "cevap": "HAMUR"
+  },
+  {
+    "ipucu": "Sert buğdaydan elde edilen besin maddesi",
+    "cevap": "İRMİK"
+  },
+  {
+    "ipucu": "Soğuktan koruyan yünlü üst giysisi",
+    "cevap": "KAZAK"
+  },
+  {
+    "ipucu": "Sıvı ölçü birimi",
+    "cevap": "LİTRE"
+  },
+  {
+    "ipucu": "Uzunluk ölçü birimi",
+    "cevap": "METRE"
+  },
+  {
+    "ipucu": "Yılın dördüncü ayı",
+    "cevap": "NİSAN"
+  },
+  {
+    "ipucu": "Bir işe veya mala birlikte sahip olan kimse",
+    "cevap": "ORTAK"
+  },
+  {
+    "ipucu": "Evlilik veya nişan yüzüğü",
+    "cevap": "ALYANS"
+  },
+  {
+    "ipucu": "Okyanuslarda yaşayan dev deniz memelisi",
+    "cevap": "BALİNA"
+  },
+  {
+    "ipucu": "Ölü bedeni ve bunun kaldırılması töreni",
+    "cevap": "CENAZE"
+  },
+  {
+    "ipucu": "Düzgün olmayan, eğri büğrü",
+    "cevap": "ÇARPIK"
+  },
+  {
+    "ipucu": "İplikle örülen ağ görünümlü örgü",
+    "cevap": "DANTEL"
+  },
+  {
+    "ipucu": "Kendini başkasının yerine koyma durumu",
+    "cevap": "EMPATİ"
+  },
+  {
+    "ipucu": "Sert kabuklu, içi yenen bir yemiş",
+    "cevap": "FISTIK"
+  },
+  {
+    "ipucu": "Günün konusu olan, şimdiki",
+    "cevap": "GÜNCEL"
+  },
+  {
+    "ipucu": "İki ucunda ağırlık olan demir çubuğu kaldırma sporu",
+    "cevap": "HALTER"
+  },
+  {
+    "ipucu": "Dişleme işi",
+    "cevap": "ISIRMA"
+  },
+  {
+    "ipucu": "Muhafaza etme işi, esirgeme",
+    "cevap": "KORUMA"
+  },
+  {
+    "ipucu": "Kat kat yapraklı, top biçiminde kış sebzesi",
+    "cevap": "LAHANA"
+  },
+  {
+    "ipucu": "Bir yerin tam ortası",
+    "cevap": "MERKEZ"
+  },
+  {
+    "ipucu": "Aşırılığı olmayan, olağan",
+    "cevap": "NORMAL"
+  },
+  {
+    "ipucu": "Konaklama tesisi işleten kimse",
+    "cevap": "OTELCİ"
+  },
+  {
+    "ipucu": "Türkiye'nin Asya kıtasında kalan bölümü",
+    "cevap": "ANADOLU"
+  },
+  {
+    "ipucu": "Bir şeyin adını gizleyerek özelliklerini söyleyen söz oyunu",
+    "cevap": "BİLMECE"
+  },
+  {
+    "ipucu": "Bir insanı bilerek öldürme suçu",
+    "cevap": "CİNAYET"
+  },
+  {
+    "ipucu": "Yanında çocuğu olan kimse",
+    "cevap": "ÇOCUKLU"
+  },
+  {
+    "ipucu": "Horozuyla ünlü Ege Bölgesi ilimiz",
+    "cevap": "DENİZLİ"
+  },
+  {
+    "ipucu": "Evine bağlı, dışarı çıkmayı çok sevmeyen kişi",
+    "cevap": "EVCİMEN"
+  },
+  {
+    "ipucu": "Eski Mısır hükümdarlarına verilen unvan",
+    "cevap": "FİRAVUN"
+  },
+  {
+    "ipucu": "İnce yufka arasına malzeme konularak sacda pişen yiyecek",
+    "cevap": "GÖZLEME"
+  },
+  {
+    "ipucu": "Bir cismin durumunu veya yerini değiştirme işi",
+    "cevap": "HAREKET"
+  },
+  {
+    "ipucu": "Güzel kokulu, çayı yapılan şifalı bir ağaç ve çiçeği",
+    "cevap": "IHLAMUR"
+  },
+  {
+    "ipucu": "Temel eğitim veren birinci basamak öğretim kurumu",
+    "cevap": "İLKOKUL"
+  },
+  {
+    "ipucu": "Toprak altında yuva yapan, çalışkanlığıyla bilinen böcek",
+    "cevap": "KARINCA"
+  },
+  {
+    "ipucu": "Lades oyununa tutuşmuş olan",
+    "cevap": "LADESLİ"
+  },
+  {
+    "ipucu": "Basın kuruluşları için haber toplayan kişi",
+    "cevap": "MUHABİR"
+  },
+  {
+    "ipucu": "Şiir veya şarkılarda tekrarlanan dize",
+    "cevap": "NAKARAT"
+  },
+  {
+    "ipucu": "İçinde su canlıları beslenen cam kap",
+    "cevap": "AKVARYUM"
+  },
+  {
+    "ipucu": "Bir iş oluncaya kadar bir yerde durmak",
+    "cevap": "BEKLEMEK"
+  },
+  {
+    "ipucu": "Hayatta olma durumu, dirilik",
+    "cevap": "CANLILIK"
+  },
+  {
+    "ipucu": "Oy vermekten veya taraf olmaktan kaçınan",
+    "cevap": "ÇEKİMSER"
+  },
+  {
+    "ipucu": "Birini düğün veya toplantıya çağırmak için yazılan kart",
+    "cevap": "DAVETİYE"
+  },
+  {
+    "ipucu": "Çocukluk ile yetişkinlik arasındaki yaşam dönemi",
+    "cevap": "ERGENLİK"
+  },
+  {
+    "ipucu": "Bir şeyin bilincinde olan, sezmiş",
+    "cevap": "FARKINDA"
+  },
+  {
+    "ipucu": "Gözlem yapan kimse, müşahit",
+    "cevap": "GÖZLEMCİ"
+  },
+  {
+    "ipucu": "Parayı veya emeği bir iş için tüketmek",
+    "cevap": "HARCAMAK"
+  },
+  {
+    "ipucu": "Daha iyi bir duruma geçme, gelişme",
+    "cevap": "İLERLEME"
+  },
+  {
+    "ipucu": "İçi hava veya sıvı dolu küçük şişkinlik",
+    "cevap": "KABARCIK"
+  },
+  {
+    "ipucu": "Boyna takılan değerli taş veya metalden yapılmış takı",
+    "cevap": "MADALYON"
+  },
+  {
+    "ipucu": "Bir kimsenin doğup büyüdüğü yer",
+    "cevap": "MEMLEKET"
+  },
+  {
+    "ipucu": "Noter olma durumu veya makamı",
+    "cevap": "NOTERLİK"
+  },
+  {
+    "ipucu": "Dikkati veya ışığı bir noktada toplama işi",
+    "cevap": "ODAKLAMA"
+  },
+  {
+    "ipucu": "Soğuktan korunmak için kullanılan kalın örtü",
+    "cevap": "BATTANİYE"
+  },
+  {
+    "ipucu": "Bir işin ilk adımı, giriş",
+    "cevap": "BAŞLANGIÇ"
+  },
+  {
+    "ipucu": "İpte yürüme ve denge oyunları yapma hüneri",
+    "cevap": "CAMBAZLIK"
+  },
+  {
+    "ipucu": "Çamaşır yıkayarak geçimini sağlayan kişi",
+    "cevap": "ÇAMAŞIRCI"
+  },
+  {
+    "ipucu": "Başkenti Kopenhag olan İskandinav ülkesi",
+    "cevap": "DANİMARKA"
+  },
+  {
+    "ipucu": "Ekvator bölgesine özgü olan",
+    "cevap": "EKVATORAL"
+  },
+  {
+    "ipucu": "Kendi çıkarlarından vazgeçecek şekilde",
+    "cevap": "FEDAKARCA"
+  },
+  {
+    "ipucu": "Çok ve boş konuşma huyu",
+    "cevap": "GEVEZELİK"
+  },
+  {
+    "ipucu": "Başkalarının hata veya farklılıklarını anlayışla karşılayan",
+    "cevap": "HOŞGÖRÜLÜ"
+  },
+  {
+    "ipucu": "Olaylara olumlu ve umutla yaklaşan bir tavırla",
+    "cevap": "İYİMSERCE"
+  },
+  {
+    "ipucu": "Sinema veya televizyonda görüntüyü kaydeden görevli",
+    "cevap": "KAMERAMAN"
+  },
+  {
+    "ipucu": "Bir okulu bitirme durumu",
+    "cevap": "MEZUNİYET"
+  },
+  {
+    "ipucu": "Bitki bilimci",
+    "cevap": "NEBATATÇI"
+  },
+  {
+    "ipucu": "Osmanlı İmparatorluğu döneminde kullanılan Türkçe",
+    "cevap": "OSMANLICA"
+  },
+  {
+    "ipucu": "Belli aralıklarla yinelenen",
+    "cevap": "PERİYODİK"
+  },
+  {
+    "ipucu": "Bilgi edinerek cehaletten kurtulma, ışıklanma",
+    "cevap": "AYDINLANMA"
+  },
+  {
+    "ipucu": "Parçaların bir araya gelerek tam bir varlık oluşturması",
+    "cevap": "BÜTÜNLEŞME"
+  },
+  {
+    "ipucu": "Duyguların güçlü bir şekilde kabarması, heyecana kapılma",
+    "cevap": "COŞKULANMA"
+  },
+  {
+    "ipucu": "Zihinde başka şeyleri anımsatan, hatırlatan",
+    "cevap": "ÇAĞRIŞIMLI"
+  },
+  {
+    "ipucu": "Bir topluluktaki insanların birbirine destek olması",
+    "cevap": "DAYANIŞMAK"
+  },
+  {
+    "ipucu": "İnsan üzerinde derin bir iz veya his bırakan",
+    "cevap": "ETKİLEYİCİ"
+  },
+  {
+    "ipucu": "Sıkıntıdan kurtulup iç huzuruna ve rahatlığa kavuşmak",
+    "cevap": "FERAHLAMAK"
+  },
+  {
+    "ipucu": "Karşılıklı konuşmalar veya diyaloglar",
+    "cevap": "GÖRÜŞMELER"
+  },
+  {
+    "ipucu": "Matematiksel işlemleri kullanarak bir sonucu bulmak",
+    "cevap": "HESAPLAMAK"
+  },
+  {
+    "ipucu": "Bir şeye zaman ayırıp onunla meşgul olmak",
+    "cevap": "İLGİLENMEK"
+  }
+]
