@@ -43,13 +43,7 @@ function App() {
   const [kopyaHatasi, setKopyaHatasi] = useState(false);
   const [inceImlec, setInceImlec] = useState(false);
   const [dokunmatik, setDokunmatik] = useState(false);
-  const [klavye, setKlavye] = useState({
-    yukseklik: 0,
-    gorunurYukseklik: 0,
-    gorunurGenislik: 0,
-    ust: 0,
-    sol: 0,
-  });
+  const [klavyeYuksekligi, setKlavyeYuksekligi] = useState(0);
   const cikisIsteniyor = useRef(false);
 
   const cevapInputunuOdakla = () => {
@@ -80,40 +74,25 @@ function App() {
 
   useEffect(() => {
     if (ekranDurumu !== "oyun") {
-      setKlavye({
-        yukseklik: 0,
-        gorunurYukseklik: 0,
-        gorunurGenislik: 0,
-        ust: 0,
-        sol: 0,
-      });
+      setKlavyeYuksekligi(0);
       return undefined;
     }
     cikisIsteniyor.current = false;
     const vv = window.visualViewport;
+    let son = 0;
     const sync = () => {
       const layoutH = window.innerHeight;
-      const layoutW = window.innerWidth;
       const h = vv?.height ?? layoutH;
-      const w = vv?.width ?? layoutW;
       const ust = vv?.offsetTop ?? 0;
-      const sol = vv?.offsetLeft ?? 0;
-      setKlavye({
-        yukseklik: Math.max(0, layoutH - h - ust),
-        gorunurYukseklik: h,
-        gorunurGenislik: w,
-        ust,
-        sol,
-      });
+      const sonraki = Math.max(0, Math.round(layoutH - h - ust));
+      if (Math.abs(sonraki - son) < 12) return;
+      son = sonraki;
+      setKlavyeYuksekligi(sonraki);
     };
     sync();
     vv?.addEventListener("resize", sync);
-    vv?.addEventListener("scroll", sync);
-    window.addEventListener("resize", sync);
     return () => {
       vv?.removeEventListener("resize", sync);
-      vv?.removeEventListener("scroll", sync);
-      window.removeEventListener("resize", sync);
     };
   }, [ekranDurumu]);
 
@@ -121,31 +100,15 @@ function App() {
     if (ekranDurumu !== "oyun") return undefined;
     const html = document.documentElement;
     const body = document.body;
-    const onceki = {
-      htmlOverflow: html.style.overflow,
-      bodyOverflow: body.style.overflow,
-      bodyPosition: body.style.position,
-      bodyWidth: body.style.width,
-      bodyTop: body.style.top,
-      bodyLeft: body.style.left,
-    };
+    const oncekiHtml = html.style.overflow;
+    const oncekiBody = body.style.overflow;
     html.style.overflow = "hidden";
     body.style.overflow = "hidden";
-    if (dokunmatik) {
-      body.style.position = "fixed";
-      body.style.width = "100%";
-      body.style.left = "0";
-      body.style.top = "0";
-    }
     return () => {
-      html.style.overflow = onceki.htmlOverflow;
-      body.style.overflow = onceki.bodyOverflow;
-      body.style.position = onceki.bodyPosition;
-      body.style.width = onceki.bodyWidth;
-      body.style.top = onceki.bodyTop;
-      body.style.left = onceki.bodyLeft;
+      html.style.overflow = oncekiHtml;
+      body.style.overflow = oncekiBody;
     };
-  }, [ekranDurumu, dokunmatik]);
+  }, [ekranDurumu]);
 
   useEffect(() => {
     if (!inceImlec) return undefined;
@@ -245,7 +208,7 @@ function App() {
     height: "auto",
     boxSizing: "border-box",
   };
-  const klavyeAcik = dokunmatik && klavye.yukseklik > 80;
+  const klavyeAcik = dokunmatik && klavyeYuksekligi > 80;
 
   useEffect(() => {
     if (
@@ -581,17 +544,8 @@ function App() {
         className="wordi-ekran wordi-oyun flex flex-col justify-between relative bg-gradient-to-br from-[#0f172a] via-[#09090b] to-[#1e1b4b]"
         onClick={tahtayaTikla}
         style={
-          dokunmatik && klavye.gorunurGenislik
-            ? {
-                position: "fixed",
-                top: klavye.ust,
-                left: klavye.sol,
-                width: klavye.gorunurGenislik,
-                height: klavye.gorunurYukseklik || undefined,
-                right: "auto",
-                minHeight: 0,
-                boxSizing: "border-box",
-              }
+          klavyeAcik
+            ? { paddingBottom: `max(1rem, ${klavyeYuksekligi}px)` }
             : undefined
         }
       >
@@ -668,7 +622,7 @@ function App() {
         </header>
 
         <main
-          className={`z-10 w-full min-w-0 flex flex-col items-center justify-center flex-1 relative ${klavyeAcik ? "my-2" : "my-6 sm:my-10"}`}
+          className={`z-10 w-full min-w-0 flex flex-col items-stretch justify-center flex-1 relative ${klavyeAcik ? "my-2" : "my-6 sm:my-10"}`}
         >
           {easterEggAktif && (
             <div className="absolute inset-0 z-50 flex items-center justify-center bg-emerald-950/90 backdrop-blur-2xl flex-col overflow-hidden rounded-3xl">
