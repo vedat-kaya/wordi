@@ -46,7 +46,9 @@ function App() {
   const [klavye, setKlavye] = useState({
     yukseklik: 0,
     gorunurYukseklik: 0,
+    gorunurGenislik: 0,
     ust: 0,
+    sol: 0,
   });
   const cikisIsteniyor = useRef(false);
 
@@ -78,19 +80,30 @@ function App() {
 
   useEffect(() => {
     if (ekranDurumu !== "oyun") {
-      setKlavye({ yukseklik: 0, gorunurYukseklik: 0, ust: 0 });
+      setKlavye({
+        yukseklik: 0,
+        gorunurYukseklik: 0,
+        gorunurGenislik: 0,
+        ust: 0,
+        sol: 0,
+      });
       return undefined;
     }
     cikisIsteniyor.current = false;
     const vv = window.visualViewport;
     const sync = () => {
       const layoutH = window.innerHeight;
+      const layoutW = window.innerWidth;
       const h = vv?.height ?? layoutH;
+      const w = vv?.width ?? layoutW;
       const ust = vv?.offsetTop ?? 0;
+      const sol = vv?.offsetLeft ?? 0;
       setKlavye({
         yukseklik: Math.max(0, layoutH - h - ust),
         gorunurYukseklik: h,
+        gorunurGenislik: w,
         ust,
+        sol,
       });
     };
     sync();
@@ -114,12 +127,14 @@ function App() {
       bodyPosition: body.style.position,
       bodyWidth: body.style.width,
       bodyTop: body.style.top,
+      bodyLeft: body.style.left,
     };
     html.style.overflow = "hidden";
     body.style.overflow = "hidden";
     if (dokunmatik) {
       body.style.position = "fixed";
       body.style.width = "100%";
+      body.style.left = "0";
       body.style.top = "0";
     }
     return () => {
@@ -128,6 +143,7 @@ function App() {
       body.style.position = onceki.bodyPosition;
       body.style.width = onceki.bodyWidth;
       body.style.top = onceki.bodyTop;
+      body.style.left = onceki.bodyLeft;
     };
   }, [ekranDurumu, dokunmatik]);
 
@@ -218,15 +234,16 @@ function App() {
   const tahtaStili = {
     display: "grid",
     gridTemplateColumns: `repeat(${harfSayisi}, minmax(0, 1fr))`,
-    gap: harfSayisi >= 9 ? "0.22rem" : harfSayisi >= 7 ? "0.4rem" : "0.55rem",
+    gap: harfSayisi >= 9 ? "0.25rem" : harfSayisi >= 7 ? "0.4rem" : "0.5rem",
     width: "100%",
-    maxWidth: `min(100%, ${harfSayisi * 5.25}rem)`,
   };
   const kutuBoyu = {
     width: "100%",
     minWidth: 0,
+    maxWidth: "100%",
     aspectRatio: "3 / 4",
     height: "auto",
+    boxSizing: "border-box",
   };
   const klavyeAcik = dokunmatik && klavye.yukseklik > 80;
 
@@ -561,17 +578,19 @@ function App() {
   } else {
     icerik = (
       <div
-        className="wordi-ekran flex flex-col justify-between p-4 sm:p-12 overflow-hidden relative bg-gradient-to-br from-[#0f172a] via-[#09090b] to-[#1e1b4b]"
+        className="wordi-ekran wordi-oyun flex flex-col justify-between relative bg-gradient-to-br from-[#0f172a] via-[#09090b] to-[#1e1b4b]"
         onClick={tahtayaTikla}
         style={
-          dokunmatik && klavye.gorunurYukseklik
+          dokunmatik && klavye.gorunurGenislik
             ? {
                 position: "fixed",
                 top: klavye.ust,
-                left: 0,
-                right: 0,
-                height: klavye.gorunurYukseklik,
+                left: klavye.sol,
+                width: klavye.gorunurGenislik,
+                height: klavye.gorunurYukseklik || undefined,
+                right: "auto",
                 minHeight: 0,
+                boxSizing: "border-box",
               }
             : undefined
         }
@@ -649,7 +668,7 @@ function App() {
         </header>
 
         <main
-          className={`z-10 w-full flex flex-col items-center justify-center flex-1 relative min-h-0 ${klavyeAcik ? "my-2" : "my-6 sm:my-10"}`}
+          className={`z-10 w-full min-w-0 flex flex-col items-center justify-center flex-1 relative ${klavyeAcik ? "my-2" : "my-6 sm:my-10"}`}
         >
           {easterEggAktif && (
             <div className="absolute inset-0 z-50 flex items-center justify-center bg-emerald-950/90 backdrop-blur-2xl flex-col overflow-hidden rounded-3xl">
@@ -704,10 +723,10 @@ function App() {
             </h2>
           </div>
 
-          <div className="relative w-full flex justify-center">
+          <div className="relative w-full min-w-0 self-stretch">
             <div
               ref={tahtaRef}
-              className="w-full"
+              className="w-full min-w-0"
               style={tahtaStili}
             >
             {goruntulenenHarfler.map((harf, index) => {
