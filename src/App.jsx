@@ -215,8 +215,16 @@ function App() {
   }
 
   const harfSayisi = goruntulenenHarfler.length || 1;
+  const tahtaStili = {
+    display: "grid",
+    gridTemplateColumns: `repeat(${harfSayisi}, minmax(0, 1fr))`,
+    gap: harfSayisi >= 9 ? "0.22rem" : harfSayisi >= 7 ? "0.4rem" : "0.55rem",
+    width: "100%",
+    maxWidth: `min(100%, ${harfSayisi * 5.25}rem)`,
+  };
   const kutuBoyu = {
-    width: `clamp(1.6rem, calc(100% / ${harfSayisi} - 0.3rem), 6rem)`,
+    width: "100%",
+    minWidth: 0,
     aspectRatio: "3 / 4",
     height: "auto",
   };
@@ -696,10 +704,11 @@ function App() {
             </h2>
           </div>
 
-          <div className="relative w-full max-w-full">
+          <div className="relative w-full flex justify-center">
             <div
               ref={tahtaRef}
-              className="flex flex-nowrap justify-center gap-1 sm:gap-3 md:gap-4 w-full px-1"
+              className="w-full"
+              style={tahtaStili}
             >
             {goruntulenenHarfler.map((harf, index) => {
               let kutuRengi =
@@ -731,10 +740,10 @@ function App() {
                 <div
                   key={index}
                   style={kutuBoyu}
-                  className={`shrink-0 rounded-2xl flex items-center justify-center transition-all duration-300 ${kutuRengi} ${animasyonClass}`}
+                  className={`min-w-0 rounded-2xl flex items-center justify-center transition-all duration-300 ${kutuRengi} ${animasyonClass}`}
                 >
                   <span
-                    className={`text-xl sm:text-4xl md:text-5xl lg:text-6xl font-black ${yaziRengi}`}
+                    className={`font-black leading-none ${yaziRengi} ${harfSayisi >= 9 ? "text-lg sm:text-4xl md:text-5xl" : "text-2xl sm:text-4xl md:text-5xl lg:text-6xl"}`}
                   >
                     {harf}
                   </span>
