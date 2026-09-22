@@ -366,7 +366,7 @@ function App() {
 
         <div className="z-10 w-full max-w-3xl text-center">
           <a
-            href="/"
+            href="https://vedatkaya.com/"
             className="inline-block mb-10 text-[10px] tracking-[0.35em] uppercase text-neutral-500 hover:text-white transition-colors"
           >
             Vedat Kaya
